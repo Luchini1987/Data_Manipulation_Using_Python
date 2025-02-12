@@ -10,4 +10,7 @@ The data frames used at this project, it have been retrieved from :
 
 <https://www.kaggle.com/datasets/usdot/flight-delays?resource=download>
 
+You can download the 3 CSV archives from the link above.
+
+Unfortunately, i only uploaded 2 of 3 CSV archives.  
 
